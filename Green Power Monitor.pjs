@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{EA4B64BB-77EE-4602-8FE9-9FA8456156E2}">
+	<children>
+		<child name="WordPad demo - Green Power Monitor" key="{B94DEF6D-7859-4D9B-99D4-37090265DCFE}" path="WordPad demo - Green Power Monitor\WordPad demo - Green Power Monitor.mds" />
+	</children>
+	<testItems key="{CE938852-7943-4656-8977-437B94E18894}">
+		<children>
+			<testItem key="{B94DEF6D-7859-4D9B-99D4-37090265DCFE}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{5794C163-38F8-493B-A06A-6220EC2414F5}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{A564F1CC-FCBA-4DF5-BFA4-0C9EC41D67A1}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
